@@ -55,3 +55,10 @@ This web application provides a platform for users to book rides, track them in 
    nodemon index.js
 
 
+![1](https://github.com/jynt1401/Ride-Sharing/assets/100084399/6ccb73f3-3658-4804-8cfd-a6e7001c3e1a)
+![2](https://github.com/jynt1401/Ride-Sharing/assets/100084399/0c89a885-a51a-4f33-9d8b-756fd17291cb)
+![3](https://github.com/jynt1401/Ride-Sharing/assets/100084399/3c89d5f9-2a85-4f3f-8c57-7dce758ea3f7)
+![4](https://github.com/jynt1401/Ride-Sharing/assets/100084399/9430fb8b-a497-414c-b279-c0295d44943a)
+![5](https://github.com/jynt1401/Ride-Sharing/assets/100084399/117d37f3-2d06-4137-93ce-8c2f50bb9dd3)
+![6](https://github.com/jynt1401/Ride-Sharing/assets/100084399/32c6cf8c-0c0f-4563-b1d3-68f1530af015)
+![7](https://github.com/jynt1401/Ride-Sharing/assets/100084399/970031f3-8cc8-4656-bad4-23bfc98fe72d)
