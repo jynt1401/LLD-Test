@@ -54,6 +54,10 @@ This web application provides a platform for users to book rides, track them in 
    cd Backend
    nodemon index.js
 
+<br>
+<br>
+
+## Walkthrough
 
 ![1](https://github.com/jynt1401/Ride-Sharing/assets/100084399/6ccb73f3-3658-4804-8cfd-a6e7001c3e1a)
 ![2](https://github.com/jynt1401/Ride-Sharing/assets/100084399/0c89a885-a51a-4f33-9d8b-756fd17291cb)
